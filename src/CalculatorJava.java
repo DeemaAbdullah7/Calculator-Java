@@ -51,7 +51,6 @@ public class CalculatorJava {
                         System.out.println("Cannot divide by zero.");
                     } else {
                         result = firstNumber / secondNumber;
-                        
                     }
                     break;
 
